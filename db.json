@@ -10,5 +10,8 @@
   "profile": {
     "name": "typicode"
   }
+  <script>
+    alert( 'Hello, world!' );
+  </script>
 }
 
