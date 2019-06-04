@@ -1,7 +1,7 @@
 {
   "posts": [
-    {Name},
-    {Age}
+    {"id": 1, "body": "New comment", "postId": 1 },
+    {"id": 1, "body": "New comment", "postId": 1 }
   ],
   "comments": [
     { "id": 1, "body": "New comment", "postId": 1 },
